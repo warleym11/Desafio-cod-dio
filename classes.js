@@ -35,4 +35,4 @@ const hero3 = new Heroi("Master Roshi", 300, "monge");
 hero3.atacar();  // Saída: o monge atacou usando artes marciais
 
 const hero4 = new Heroi("Naruto", 17, "ninja");
-hero4.atacar();  // Saída: o ninja atacou usando shuriken
+hero4.atacar();  // Saída: o ninja atacou usando shurikenN
